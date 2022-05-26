@@ -1,4 +1,4 @@
-# AI_in_medical_fields
+# AI in Medical Fields
 A ML learning course provided by faculty of engineering Cairo university to 3rd grade students (majors) of the Biomedical &amp; software department 
 
 
